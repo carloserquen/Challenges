@@ -1,0 +1,5 @@
+position,competition
+4,Champions League
+7,Europa League
+17,No competition
+20,Relegation

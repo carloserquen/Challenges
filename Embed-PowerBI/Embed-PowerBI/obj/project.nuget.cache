@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "+J2kfzzzxyolvZSGgYkDdHoQ8E3FR3uuvDiep8FSuVQlcO7a+WuLOg7Xqm3KM+sapUBe/cvFnAp3UVj8Ap2ePQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caserqu\\Desktop\\CS\\Training\\VS\\Embed-PowerBI\\Embed-PowerBI\\Embed-PowerBI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caserqu\\.nuget\\packages\\microsoft.identity.client\\4.55.0\\microsoft.identity.client.4.55.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\microsoft.powerbi.api\\4.16.0\\microsoft.powerbi.api.4.16.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\microsoft.rest.clientruntime.2.3.21.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\microsoft.web.librarymanager.build\\2.1.175\\microsoft.web.librarymanager.build.2.1.175.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\caserqu\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
